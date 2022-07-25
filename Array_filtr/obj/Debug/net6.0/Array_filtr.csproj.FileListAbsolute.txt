@@ -1,0 +1,15 @@
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\bin\Debug\net6.0\Array_filtr.exe
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\bin\Debug\net6.0\Array_filtr.deps.json
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\bin\Debug\net6.0\Array_filtr.runtimeconfig.json
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\bin\Debug\net6.0\Array_filtr.dll
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\bin\Debug\net6.0\Array_filtr.pdb
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.csproj.AssemblyReference.cache
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.AssemblyInfoInputs.cache
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.AssemblyInfo.cs
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.csproj.CoreCompileInputs.cache
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.dll
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\refint\Array_filtr.dll
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.pdb
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\Array_filtr.genruntimeconfig.cache
+C:\Users\kater\OneDrive\Рабочий стол\ControleWork\Array_filtr\obj\Debug\net6.0\ref\Array_filtr.dll
